@@ -1,3 +1,3 @@
-# stackblitz-starters-37q6tgxz
+# Portfolio Project
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/FranticFoe/stackblitz-starters-37q6tgxz)
